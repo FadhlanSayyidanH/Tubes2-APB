@@ -3,10 +3,6 @@
 CLAUDE.md
 _dev/
 
-# Firebase config (berisi API key/Project ID — generate ulang via flutterfire configure)
-android/app/google-services.json
-lib/firebase_options.dart
-
 # Keystore rilis & kredensial penandatanganan APK — JANGAN di-commit
 android/key.properties
 android/app/upload-keystore.jks
